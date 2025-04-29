@@ -25,7 +25,7 @@ This project is currently under development. I'm actively working on improving a
 ## 💻 Technologies Used
 
 -   JavaScript, React Native, Figma, ExpoGo
--   This project uses the [Advice Slip](https://api.adviceslip.com/advice) to display random quotes.
+-   This project uses the [Advice Slip](https://api.adviceslip.com/advice) API to display random quotes.
 
 ## 💡 Key Features
 
