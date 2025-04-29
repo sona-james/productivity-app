@@ -43,11 +43,11 @@ The key features and the core functionalities are described below:
 ## 🖼️ Screenshots
 
 <p float="left">
-    <img src="reports/assets/p1.png" width="300" alt="screen1" />
-    <img src="reports/assets/p2.png" width="300" alt="screen2" />
-    <img src="reports/assets/p3.png" width="300" alt="screen3" />
-    <img src="reports/assets/p4.png" width="300" alt="screen4" />
-    <img src="reports/assets/p5.png" width="300" alt="screen5" />
+    <img src="reports/assets/p1.png" width="250" alt="screen1" />
+    <img src="reports/assets/p2.png" width="250" alt="screen2" />
+    <img src="reports/assets/p3.png" width="250" alt="screen3" />
+    <img src="reports/assets/p4.png" width="250" alt="screen4" />
+    <img src="reports/assets/p5.png" width="250" alt="screen5" />
 </p>
 
 ## 🛠️ How to Build/Run the Project
