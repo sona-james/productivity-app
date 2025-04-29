@@ -5,14 +5,14 @@
 Cerebliss is a task-focused time management app designed to help users stay productive and organized by breaking their day down into small chunks of work. Each task includes a countdown timer to allow the user to stay engaged. The app includes flexibility, allowing users to adjust schedules, take breaks, and extend task durations as needed. Additionally, game-type features such as streaks and progress charts would make the productivity feel rewarding.
 
 ## 📚 Table of Contents
--   [Description](#description)
--   [Current Status](#current-status)
--   [Technologies Used](#technologies-used)
--   [Key Features](#key-features)
+-   [Description](#-description)
+-   [Current Status](#-current-status)
+-   [Technologies Used](#-technologies-used)
+-   [Key Features](#-key-features)
 -   [Screenshots](#screenshots)
 -   [How to Build/Run the Project](#️-how-to-buildrun-the-project)
--   [Todo](#todo)
--   [Comments](#comments)
+-   [Todo](#-todo)
+-   [Comments](#-comments)
 -   [Files and Folders](#️-files-and-folders)
 -   [Author](#️-author)
 
