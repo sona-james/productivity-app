@@ -9,7 +9,7 @@ Cerebliss is a task-focused time management app designed to help users stay prod
 -   [Current Status](#-current-status)
 -   [Technologies Used](#-technologies-used)
 -   [Key Features](#-key-features)
--   [Screenshots](#screenshots)
+-   [Screenshots](#-screenshots)
 -   [How to Build/Run the Project](#️-how-to-buildrun-the-project)
 -   [Todo](#-todo)
 -   [Comments](#-comments)
@@ -42,11 +42,13 @@ The key features and the core functionalities are described below:
 
 ## 🖼️ Screenshots
 
-![Screen1](reports/assets/p1.png)
-![Screen2](reports/assets/p2.png)
-![Screen3](reports/assets/p3.png)
-![Screen4](reports/assets/p4.png)
-![Screen5](reports/assets/p5.png)
+<p float="left">
+    <img src="reports/assets/p1.png" width="300" alt="screen1" />
+    <img src="reports/assets/p2.png" width="300" alt="screen2" />
+    <img src="reports/assets/p3.png" width="300" alt="screen3" />
+    <img src="reports/assets/p4.png" width="300" alt="screen4" />
+    <img src="reports/assets/p5.png" width="300" alt="screen5" />
+</p>
 
 ## 🛠️ How to Build/Run the Project
 
