@@ -1,20 +1,33 @@
 # 📌 Productivity App - Cerebliss
 
-## Description
+## 📒 Description
 
 Cerebliss is a task-focused time management app designed to help users stay productive and organized by breaking their day down into small chunks of work. Each task includes a countdown timer to allow the user to stay engaged. The app includes flexibility, allowing users to adjust schedules, take breaks, and extend task durations as needed. Additionally, game-type features such as streaks and progress charts would make the productivity feel rewarding.
 
-## Current Status
+## 📚 Table of Contents
+-   [Description](#description)
+-   [Current Status](#current-status)
+-   [Technologies Used](#technologies-used)
+-   [Key Features](#key-features)
+-   [Screenshots](#screenshots)
+-   [How to Build/Run the Project](#️-how-to-buildrun-the-project)
+-   [Todo](#todo)
+-   [Comments](#comments)
+-   [Files and Folders](#️-files-and-folders)
+-   [Author](#️-author)
+
+## 🚧 Current Status
 
 **Work in Progress**
+
 This project is currently under development. I'm actively working on improving and exapanding it. As a result, some functionalities are incomplete.
 
-## Technologies used
+## 💻 Technologies Used
 
--   JavaScript, React Native
--   Quote API
+-   JavaScript, React Native, Figma, ExpoGo
+-   This project uses the [Advice Slip](https://api.adviceslip.com/advice) to display random quotes.
 
-## Key Features
+## 💡 Key Features
 
 The key features and the core functionalities are described below:
 
@@ -27,7 +40,13 @@ The key features and the core functionalities are described below:
 7.  **Music Player:** Using the Spotify API, users can connect to their account and play songs within the application. Displays the song title, artist name, a basic control features, such as pause, play, and skip.
 8.  **Compete with Friends:** Users can add friends and compete in completing tasks. At the end of each schedule, the app displays who was more productive.
 
-## Screenshots
+## 🖼️ Screenshots
+
+![Screen1](reports/assets/p1.png)
+![Screen2](reports/assets/p2.png)
+![Screen3](reports/assets/p3.png)
+![Screen4](reports/assets/p4.png)
+![Screen5](reports/assets/p5.png)
 
 ## 🛠️ How to Build/Run the Project
 
@@ -38,20 +57,25 @@ The following steps are done from the command line to clone the repository:
 1.  Clone the repository using GH CLI:
 
     ``` bash
-    gh repo clone cmsc-vcu/cmsc427-sp2025-hw11-SonaJames12
+    gh repo clone sona-james/productivity-app
     ```
 
 2.  Navigate into the cloned repository:
 
     ``` bash
-    cd cmsc-vcu/cmsc427-sp2025-hw11-SonaJames12
+    cd sona-james/productivity-app
     ```
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Todo
+## 📝 Todo
 
-## Comments
+-   Implement the music player using spotify API.
+-   Turn the dates on the schedule page to button type and add the highlight feature.
+-   Implement the features inside each modal and pressable.
+-   Work on the navigation.
+
+## 💬 Comments
 
 I shared this project early to showcase the work I have done so far and to document my progress.
 
@@ -70,5 +94,3 @@ I shared this project early to showcase the work I have done so far and to docum
 ## 🙆‍♀️ Author
 
 [\@sona-james](https://github.com/sona-james)
-
-

@@ -15,10 +15,8 @@ format:
         code-links:
             text: GitHub Repository Link
             icon: link-45deg
-            href: https://github.com/cmsc-vcu/cmsc427-sp2025-hw11-SonaJames12.git
+            href: https://github.com/sona-james/productivity-app.git
 ---
-
--   [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc427-sp2025-hw11-SonaJames12.git)
 
 -   [LINK to FIGMA](https://www.figma.com/design/mH7BYSGSgtCCTgA4p7hfFb/Cerebliss?node-id=0-1&t=1W6okx3vkApIc9mh-1)
 
